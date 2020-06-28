@@ -1,0 +1,41 @@
+body {
+
+
+
+  margin: 0;
+
+
+
+}
+
+
+
+.icon {
+
+
+
+  float: left;
+
+
+
+  font-size: 30px;
+
+
+
+  display: inline-block;
+
+
+
+}
+
+
+
+input {
+
+
+
+  overflow: hidden;
+
+
+
+}
